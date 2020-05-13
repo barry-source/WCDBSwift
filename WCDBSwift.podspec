@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "WCDBSwift"
-  s.version = "1.0.8.2"
+  s.version = "0.0.3"
   s.summary = "WCDB is a cross-platform database framework developed by WeChat."
   s.license = {"type"=>"BSD", "file"=>"LICENSE"}
   s.authors = {"sanhuazhang"=>"sanhuazhang@tencent.com"}
