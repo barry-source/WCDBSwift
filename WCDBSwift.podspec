@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "WCDBSwift"
-  s.version = "0.0.3"
+  s.version = "0.0.4"
   s.summary = "WCDB is a cross-platform database framework developed by WeChat."
   s.license = {"type"=>"BSD", "file"=>"LICENSE"}
   s.authors = {"sanhuazhang"=>"sanhuazhang@tencent.com"}
@@ -29,6 +29,6 @@ Pod::Spec.new do |s|
   }
   s.swift_version = '4.2'
   s.dependency 'WCDBOptimizedSQLCipher', '~> 1.2.0'
-  s.dependency 'SQLiteRepairKit', '~> 1.2.0
+  s.dependency 'SQLiteRepairKit', '~> 1.2.0'
 end
 
